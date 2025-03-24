@@ -1,4 +1,3 @@
-# Elementary Mathematics for Computing
 
 ## Session 1: Introduction to Logic
 
@@ -71,5 +70,5 @@
   - `A × B = {(-2, -3), (-2, 2), (8, -3), (8, 2)}`.
 
 ---
-
-This concise summary captures key topics from both sessions in an easily digestible markdown format.
+<!-- 2025 - 03 - 24 
+@Asitha Kanchana Palliyaguru-->
