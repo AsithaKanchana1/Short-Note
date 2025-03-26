@@ -1,6 +1,7 @@
 
 # MHZ2250- Fundamentals of Algebra - Unit II
-
+# Session 3
+![Session 3 Mind Map IMG](./img/session3-mindmap-Fundamentals%20of%20Algebra.png)
 ## 1. Arithmetic vs Algebra
 - **Arithmetic**: Involves basic operations with numbers.
 - **Algebra**: Uses letters and numbers to express relationships between quantities.
