@@ -22,6 +22,10 @@ If you have expertise in other areas or want to contribute to this project, I we
 4. Commit your changes (`git commit -m 'Add new notes'`).
 5. Push to your forked repository (`git push origin feature-branch`).
 6. Open a pull request.
+## Links for Contnts
+### MHZ2250
+
+[MHZ2250 Folder](https://github.com/AsithaKanchana1/Short-Note/tree/main/Bachelor-Of-Software%20Engineering/Level-2/MHZ2250)
 
 ## Contact
 
