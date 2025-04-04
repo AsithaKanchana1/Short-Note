@@ -30,7 +30,7 @@ If you have expertise in other areas or want to contribute to this project, I we
 ## Contact
 
 If you're interested in contributing or need help with any topics, feel free to **contact me** through GitHub or submit a pull request directly.
-or contact me via WhatsApp +94 701336364
+and also You can reach me at [asitha.contact.me@gmail.com](mailto:asitha.contact.me@gmail.com)
 
 ## License
 
