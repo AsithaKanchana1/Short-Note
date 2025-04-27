@@ -576,3 +576,5 @@ soundPool.play(soundId, 1, 1, 1, 0, 1);
 - **A:** Use `getExternalFilesDir(Environment.DIRECTORY_PICTURES)` or `DIRECTORY_MOVIES` for saved media.
 
 ---
+update log
+2025-04-27
